@@ -14,7 +14,7 @@
 	<name>demoForJpaa</name>
 	<description>a Project using Mysql</description>
 	<properties>
-		<java.version>22</java.version>
+		<java.version>21.0.3</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
